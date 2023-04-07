@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name](https://github.com/berkayoztunc) 👋
+# Hi there, I'm [Berkay öztunç](https://github.com/berkayoztunc) 👋
 
 I am a software developer with experience in various technologies. I was born in Mersin on November 1, 1993, and I graduated from Toros University with a degree in Software Engineering. Currently, I am based in Mersin and work as a software developer.
 
