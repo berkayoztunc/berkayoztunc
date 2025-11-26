@@ -25,8 +25,5 @@ You can reach me via the following channels:
 
 ## 👨🏼‍💻 Current company 
 
-![https://geniousoft.com](https://geniousoft.com/newweb/images/aciklogo.png)
-
----
-[![](https://visitcount.itsvg.in/api?id=berkayoztunc&icon=0&color=0)](https://visitcount.itsvg.in)
+![https://geniousoft.com](https://geniousoft.com)
 
