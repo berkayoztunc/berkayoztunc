@@ -25,5 +25,5 @@ You can reach me via the following channels:
 
 ## 👨🏼‍💻 Current company 
 
-![https://geniousoft.com](https://geniousoft.com)
+https://geniousoft.com
 
